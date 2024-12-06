@@ -9,4 +9,5 @@ def umnojenie():
                 print('.'*22)
         first += 1
 
+
 umnojenie()
